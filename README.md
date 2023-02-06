@@ -1,1 +1,1 @@
-# IFJ-project-2
+# INP-project-2
